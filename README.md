@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @ZiqryHadi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me : ziqryhadi01@gmail.com
-- 😄 Pronouns: -
-- ⚡ Fun fact: -
+- 📫 How to reach me: ziqryhadi01@gmail.com
 
 <!---
 ZiqryHadi/ZiqryHadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
